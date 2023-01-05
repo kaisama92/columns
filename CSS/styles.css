@@ -3,10 +3,16 @@
   float: right;
 }
 img {
-  float: left;
+  float: top;
 }
 .sidebar {
-  width: 30%;
+  width: 10%;
   float: left;
   background-color: yellow;
+}
+.center {
+  text-align: center;
+}
+.yellow {
+  color: red;
 }
